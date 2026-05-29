@@ -1,0 +1,22 @@
+
+==========
+Thời gian: 2026-05-17 18:09:19.289056
+Điểm: 9/10
+Câu sai:
+Sai câu: "máy tính" tiếng Anh là gì? | Đúng: computer
+
+==========
+Thời gian: 2026-05-26 11:30:25.238549
+Điểm: 9/10
+Câu sai:
+Sai câu: "xe hơi" tiếng Anh là gì? | Đúng: car
+
+==========
+Thời gian: 2026-05-26 12:15:57.519255
+Điểm: 5/10
+Câu sai:
+Sai câu: "con chó" tiếng Anh là gì? | Đúng: dog
+Sai câu: "cái bàn" tiếng Anh là gì? | Đúng: table
+Sai câu: "con chó" tiếng Anh là gì? | Đúng: dog
+Sai câu: "con chó" tiếng Anh là gì? | Đúng: dog
+Sai câu: "xe hơi" tiếng Anh là gì? | Đúng: car

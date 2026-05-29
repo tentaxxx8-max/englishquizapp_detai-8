@@ -1,0 +1,35 @@
+HƯỚNG DẪN DỰ ÁN ENGLISH QUIZ APP
+
+1. GIỚI THIỆU
+Đây là ứng dụng trắc nghiệm từ vựng tiếng Anh chạy trên console, được lập trình bằng Python.
+
+2. CHỨC NĂNG
+- Trắc nghiệm 2 chiều: Việt - Anh và Anh - Việt.
+- Lấy ngẫu nhiên 10 câu hỏi mỗi lượt chơi.
+- Chấm điểm tự động và hiển thị các câu trả lời sai.
+- Lưu lịch sử kết quả vào file result.txt.
+
+3. CÔNG NGHỆ
+- Python 3
+- VS Code
+
+4. CẤU TRÚC THƯ MỤC
+EnglishQuizApp/
+├── main.py
+├── data.py
+├── question.py
+├── file_handler.py
+└── result.txt
+
+5. CÀI ĐẶT VÀ CHẠY
+- Mở thư mục dự án bằng VS Code.
+- Mở Terminal (Ctrl + `).
+- Chạy lệnh: python main.py (hoặc py main.py).
+
+6. CÁCH SỬ DỤNG
+- Nhập 1 hoặc 2 để chọn chế độ dịch.
+- Nhập A, B hoặc C để chọn đáp án.
+- Sau 10 câu, chương trình hiện điểm, câu sai và lưu vào file txt.
+
+7. TÁC GIẢ
+Pham

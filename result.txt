@@ -1,0 +1,22 @@
+
+==========
+Thời gian: 2026-05-29 18:57:13.317338
+Điểm: 4/10
+Câu sai:
+Sai câu: "điện thoại" tiếng Anh là gì? | Đúng: phone
+Sai câu: "quyển sách" tiếng Anh là gì? | Đúng: book
+Sai câu: "điện thoại" tiếng Anh là gì? | Đúng: phone
+Sai câu: "cửa sổ" tiếng Anh là gì? | Đúng: window
+Sai câu: "cái ghế" tiếng Anh là gì? | Đúng: chair
+Sai câu: "cái ghế" tiếng Anh là gì? | Đúng: chair
+
+==========
+Thời gian: 2026-05-29 19:10:22.348699
+Điểm: 4/10
+Câu sai:
+Sai câu 1: "con chó" tiếng Anh là gì? | Bạn chọn: pen | Đúng: dog
+Sai câu 4: "quyển sách" tiếng Anh là gì? | Bạn chọn: phone | Đúng: book
+Sai câu 5: "cái bàn" tiếng Anh là gì? | Bạn chọn: car | Đúng: table
+Sai câu 6: "con mèo" tiếng Anh là gì? | Bạn chọn: window | Đúng: cat
+Sai câu 7: "cái ghế" tiếng Anh là gì? | Bạn chọn: school | Đúng: chair
+Sai câu 8: "cái ghế" tiếng Anh là gì? | Bạn chọn: phone | Đúng: chair
